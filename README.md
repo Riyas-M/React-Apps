@@ -7,6 +7,8 @@ This App is Inspired from Udemy Course of [@maxedapps](https://www.udemy.com/use
 #### Tech Stack: React 18
 
 ### Authors
-
 - [Maximilian Schwarzmüller](https://www.udemy.com/user/maximilian-schwarzmuller/)
  
+
+ ## Demo
+https://tic-tac-toe-apps.web.app/
