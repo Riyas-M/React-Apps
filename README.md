@@ -10,5 +10,4 @@ This App is Inspired from Udemy Course of [@maxedapps](https://www.udemy.com/use
 - [Maximilian Schwarzmüller](https://www.udemy.com/user/maximilian-schwarzmuller/)
  
 
- ## Demo
-https://tic-tac-toe-apps.web.app/
+####  [Demo](https://tic-tac-toe-apps.web.app/)
