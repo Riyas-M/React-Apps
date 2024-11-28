@@ -5,6 +5,7 @@
 /.pnp
 .pnp.js
 .yarn/install-state.gz
+backend/node_modules
 
 # testing
 /coverage
@@ -16,6 +17,7 @@
 # production
 /build
 package-lock.json
+backend/package-lock.json
 
 # misc
 .DS_Store
